@@ -1,0 +1,6 @@
+C:\Users\George Samir\Desktop\New folder\Multiplication tables\Multiplication tables\bin\Debug\Multiplication tables.exe.config
+C:\Users\George Samir\Desktop\New folder\Multiplication tables\Multiplication tables\bin\Debug\Multiplication tables.exe
+C:\Users\George Samir\Desktop\New folder\Multiplication tables\Multiplication tables\bin\Debug\Multiplication tables.pdb
+C:\Users\George Samir\Desktop\New folder\Multiplication tables\Multiplication tables\obj\Debug\Multiplication tables.csprojResolveAssemblyReference.cache
+C:\Users\George Samir\Desktop\New folder\Multiplication tables\Multiplication tables\obj\Debug\Multiplication tables.exe
+C:\Users\George Samir\Desktop\New folder\Multiplication tables\Multiplication tables\obj\Debug\Multiplication tables.pdb
