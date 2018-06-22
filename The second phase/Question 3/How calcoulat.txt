@@ -1,0 +1,11 @@
+Collect A and B speed per hour
+
+::  totle = x + y
+
+Dividing the length of the wall by the total speed of a and b
+
+::  H = m/totle
+
+m =  Length of wall
+
+H = Number of hours required to paints a wall
